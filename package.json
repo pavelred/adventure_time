@@ -1,0 +1,23 @@
+{
+  "name": "adventure_time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelred/adventure_time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelred/adventure_time/issues"
+  },
+  "homepage": "https://github.com/pavelred/adventure_time#readme",
+  "devDependencies": {
+    "fs-extra": "^8.0.1"
+  }
+}
